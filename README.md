@@ -41,15 +41,7 @@ server, žádný cloud.
 - SQLite (sqlite-net-pcl) — lokální databáze, žádná síťová komunikace
 - Shell navigace, MVVM
 
-## Sestavení
-
-```bash
-dotnet build ProjectPogo.csproj -f net10.0-android
-dotnet build ProjectPogo.csproj -f net10.0-ios
-dotnet build ProjectPogo.csproj -f net10.0-maccatalyst
-```
-
 ## Ochrana soukromí
 
 Aplikace nesbírá ani nikam nepřenáší žádná osobní data — vše zůstává v lokálním úložišti zařízení.
-Podrobnosti viz [zásady ochrany osobních údajů](privacy-policy.html).
+Podrobnosti viz [zásady ochrany osobních údajů](index.html).
